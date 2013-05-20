@@ -5,7 +5,6 @@ define([
     "modernizr",
     "underscore",
     "backbone",
-    "backbone.layoutmanager",
     "bootstrap"
 ], function($)
 {
